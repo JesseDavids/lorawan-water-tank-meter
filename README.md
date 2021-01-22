@@ -17,7 +17,7 @@ right angle, remember, the sound wave needs to come back. The datasheet for the 
 4.5meters. The tallest jojo tank is around 4.25meters.
 
 
-# ---------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------
 
 
 Firstly i tested the sensor out to get the most accurate reading on this [board](https://www.robotics.org.za/7D3C576A?search=leo%20eth)
