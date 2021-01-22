@@ -51,7 +51,7 @@ the power bank on.
 This is the tank we used to measure.
 
 
-![title](photo_2021-01-22_13-53-42.jpg)
+![title](photo_2021-01-22_13-53-43.jpg)
 
 
 ![title](photo_2021-01-22_13-53-45.jpg)
