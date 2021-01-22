@@ -1,4 +1,4 @@
-# LoraWan - Water Tank Meter 
+# LoraWan - Water Level Tank Meter 
 by Jesse Davids
 
 
